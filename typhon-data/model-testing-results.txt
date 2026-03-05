@@ -1,0 +1,8 @@
+Aggregate metrics (n=5):
+Mean abs err (s):    0.036966352678318735
+Median abs err (s):  0.02897071460614855
+Mean rel err:        0.39280413760377036
+Median rel err:      0.4280906584696588
+
+Test MSE: 0.000817
+Test R^2: 0.9532
